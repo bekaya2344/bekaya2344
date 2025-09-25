@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=flat" alt="open-to-work"></a>
   <a href="#"><img src="https://img.shields.io/badge/Currently%20Learning-Docker,%20RAG,%20LLMs-informational?style=flat" alt="currently-learning"></a>
   <a href="#"><img src="https://img.shields.io/badge/Location-Elazığ-8A2BE2?style=flat" alt="location"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Company-Smartup%20Network-purple?style=flat" alt="company"></a>
 </p>
 
 - 🌱 I’m actively working on **Full-Stack** (HTML, CSS, Bootstrap, Vue.js, Laravel) and **Python** (Scraping, Selenium, AI).  
