@@ -61,7 +61,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekaya2344&theme=tokyonight&layout=compact&count_private=true" alt="bekaya2344 :: Top Langs" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bekaya2344&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=bekaya2344&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" />
 </p>
 
 ---
